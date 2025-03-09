@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/AbhishekChauhanNITRR/Plan-Vacations/static/css/main.d7912acb.css",
-    "main.js": "/AbhishekChauhanNITRR/Plan-Vacations/static/js/main.7f440650.js",
-    "index.html": "/AbhishekChauhanNITRR/Plan-Vacations/index.html",
-    "main.d7912acb.css.map": "/AbhishekChauhanNITRR/Plan-Vacations/static/css/main.d7912acb.css.map",
-    "main.7f440650.js.map": "/AbhishekChauhanNITRR/Plan-Vacations/static/js/main.7f440650.js.map"
+    "main.css": "/Plan-Vacations/static/css/main.d7912acb.css",
+    "main.js": "/Plan-Vacations/static/js/main.7f440650.js",
+    "index.html": "/Plan-Vacations/index.html",
+    "main.d7912acb.css.map": "/Plan-Vacations/static/css/main.d7912acb.css.map",
+    "main.7f440650.js.map": "/Plan-Vacations/static/js/main.7f440650.js.map"
   },
   "entrypoints": [
     "static/css/main.d7912acb.css",
